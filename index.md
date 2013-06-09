@@ -32,7 +32,7 @@ Langiu, Giuseppe Ripa, et al. &mdash; License: CC BY-SA 3.0 Unported
 
 ## 2013-06-07
 
-### Precisazioni Su licenze software libero
+Precisazioni su licenze software libero:
 
 - @FabioVallone: GPL o GNU GPL --> General Public License o anche GNU
 
@@ -40,12 +40,10 @@ Langiu, Giuseppe Ripa, et al. &mdash; License: CC BY-SA 3.0 Unported
 più il copyleft
 
 - @93Levante: Il quarto principio, su cui si basa il software libero,
-diventa un OBBLIGO x il bene della comunità
+diventa un OBBLIGO per il bene della comunità
 
 - @DavidePalermo2: Allarme patent troll, finti inventori: brevettano
 l'hi-tech e fanno causa http://t.co/109jk41Z24 via @repubblicait
-
-- @paolopopolizio: @russomatteo93 allora mi osservi invece di seguire :P
 
 - @StefanoFranz20: "General public licence" tipo di licenza finalizzata
 alla condivisione delle modifiche sul codice dei software
